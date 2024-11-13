@@ -6,3 +6,5 @@ Please ensure that you create your own virtual environment and install all the n
 
 Enjoy!
 
+## Projeto Original:
+https://github.com/cloud-with-django/Django-CRM-mastery-app-Project-1-YT
