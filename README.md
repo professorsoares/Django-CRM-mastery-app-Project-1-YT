@@ -6,7 +6,8 @@ Please ensure that you create your own virtual environment and install all the n
 
 Enjoy!
 
-# Vídeo do Canal: Cloud With Django -  Projetos: https://www.youtube.com/watch?v=pqWyUAT38e0&list=PLXo6OWLjr5-ul_5793_tIR4AzhPQpPqlA
+# Vídeo do Canal: Cloud With Django -  Projetos: 
+https://www.youtube.com/watch?v=pqWyUAT38e0&list=PLXo6OWLjr5-ul_5793_tIR4AzhPQpPqlA
 
 ## Projeto Original:
 https://github.com/cloud-with-django/Django-CRM-mastery-app-Project-1-YT
